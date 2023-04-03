@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Marcos
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Node
+- 🌱 I’m currently studying at Iron Hack
 - 💞️ I’m looking to collaborate on Javascript Projects
-- 📫 How to reach me francesquini@gmail.com
+- 📫 How to reach me francesquini.professional@gmail.com
 
 <!---
 MFrancesquini/MFrancesquini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
